@@ -55,3 +55,4 @@ if __name__ == "__main__":
     generate_deliveries_csv('deliveries.csv')
     generate_sales_csv('sales.csv')
     print("Updated sample deliveries.csv and sales.csv generated with low stock cases.")
+    
